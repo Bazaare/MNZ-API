@@ -1,0 +1,8 @@
+/bin
+.idea
+dist/
+report.xml
+cover.out
+coverage.txt
+coverage.xml
+MNZ
