@@ -96,10 +96,6 @@ Run the binary:
 
 `./MNZ`
 
-Request your authentication token:
-
-`curl -X POST localhost:8080/xml/login`
-
 To retrieve the data from the Middleware Static Backend XML Service, navigate to the following URL in the browser:
 
 `localhost:8080/xml/1`
